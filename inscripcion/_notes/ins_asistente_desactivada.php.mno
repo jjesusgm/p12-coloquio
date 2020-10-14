@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUniversidades" value="name:id_universidad;datatype:int,name:universidad;datatype:string" />
+	<infoitem key="UD_rsGradosAcademicos" value="name:id_grado_acad;datatype:int,name:grado_academico;datatype:string" />
+</info>

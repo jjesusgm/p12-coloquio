@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsContactos" value="name:id_contacto;datatype:int,name:fecha_contacto;datatype:timestamp,name:estatus;datatype:string,name:nombre;datatype:string,name:email;datatype:string,name:telefono;datatype:string,name:inscrito;datatype:string,name:mensaje;datatype:blob,name:respondio;datatype:string,name:fecha_respuesta;datatype:timestamp,name:respuesta;datatype:blob" />
+</info>

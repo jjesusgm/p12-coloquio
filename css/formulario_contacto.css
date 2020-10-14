@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+input[type=text], [type=number], [type=password], [type=tel], [type=email], textarea, select {
+	padding: 12px 8px 12px 8px;
+	margin: 1px 1px 1px 1px;
+    font-size: 15px;
+	border: 1px solid blue;
+    display: inline-block;
+    border-radius: 2px;
+    box-sizing: border-box;
+	width:100%;
+}
+
+input[type=text]:valid, [type=number]:valid, [type=password]:valid, [type=tel]:valid, [type=email]:valid, textarea:valid, select:valid {
+	background-color: lightgreen;
+}
+
+input[type=text]:invalid, [type=number]:invalid, [type=password]:invalid, [type=tel]:invalid, [type=email]:invalid, textarea:invalid, select:invalid {
+	background-color: tomato;
+}
+
+input[type=text]:focus, [type=number]:focus, [type=password]:focus, [type=tel]:focus, [type=email]:focus, textarea:focus, select:focus {
+    box-shadow: 0 0 10px #000066;
+}
+
+input[type=submit], [type=reset], [type=button] {
+    background-color: #3399FF;
+    color: white;
+    padding: 5px 10px;
+    margin: 1px 1px 1px 1px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+input[type=submit]:focus, [type=reset]:focus, [type=button]:focus {
+    box-shadow: 0 0 10px #000066;
+}
+
+input[type=submit]:hover, [type=reset]:hover, [type=button]:hover {
+    background-color: #3366CC;
+}
+
+textarea:focus {
+    box-shadow: 0 0 10px #000066;
+}
+
+label {
+    font-size: 15px;
+	font-weight: bold;
+	color:#666;
+}
+
+label:after { content: ":" }

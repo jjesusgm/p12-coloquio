@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="grad_acad_edit.php" server="148.202.47.7" local="132107356787325672" remote="132107536800000000" Dst="2" />
+<file name="grad_acad_add.php" server="148.202.47.7" local="132107356786445966" remote="132107536800000000" Dst="2" />
+<file name="grad_acad_delete.php" server="148.202.47.7" local="132107356786895737" remote="132107536800000000" Dst="2" />
+<file name="index.php" server="148.202.47.7" local="132107356818063986" remote="132107536800000000" Dst="2" />
+<file name="lst_grad_acad.php" server="148.202.47.7" local="132107356787915878" remote="132107536800000000" Dst="2" />
+<file name="lst_niv_acc.php" server="148.202.47.7" local="132107356789015490" remote="132107536800000000" Dst="2" />
+<file name="lst_univ.php" server="148.202.47.7" local="132107356790111258" remote="132107536800000000" Dst="2" />
+<file name="niv_acc_add.php" server="148.202.47.7" local="132107356792540804" remote="132107536800000000" Dst="2" />
+<file name="lst_usr.php" server="148.202.47.7" local="132107356791310846" remote="132107536800000000" Dst="2" />
+<file name="niv_acc_delete.php" server="148.202.47.7" local="132107356793040764" remote="132107536800000000" Dst="2" />
+<file name="niv_acc_edit.php" server="148.202.47.7" local="132107356793511052" remote="132107536800000000" Dst="2" />
+<file name="univ_add.php" server="148.202.47.7" local="132108157179279936" remote="132108337200000000" Dst="2" />
+<file name="univ_delete.php" server="148.202.47.7" local="132108158489682384" remote="132108339000000000" Dst="2" />
+<file name="univ_edit.php" server="148.202.47.7" local="132108158167481460" remote="132108337800000000" Dst="2" />
+<file name="usr_add.php" server="148.202.47.7" local="132108154939397659" remote="132108334800000000" Dst="2" />
+<file name="usr_delete.php" server="148.202.47.7" local="132108151599369804" remote="132108331200000000" Dst="2" />
+<file name="usr_edit.php" server="148.202.47.7" local="132108152150727518" remote="132108331800000000" Dst="2" />
+<file name="grad_acad_add.php" server="148.202.47.2" local="132127418879513786" remote="132127599600000000" Dst="2" />
+<file name="index.php" server="148.202.47.2" local="132151408514292848" remote="132152659200000000" Dst="2" />
+<file name="grad_acad_delete.php" server="148.202.47.2" local="132127418880673747" remote="132127599600000000" Dst="2" />
+<file name="grad_acad_edit.php" server="148.202.47.2" local="132127418881793630" remote="132127599600000000" Dst="2" />
+<file name="lst_grad_acad.php" server="148.202.47.2" local="132127418883723519" remote="132127599600000000" Dst="2" />
+<file name="lst_niv_acc.php" server="148.202.47.2" local="132127418885493445" remote="132127599600000000" Dst="2" />
+<file name="lst_univ.php" server="148.202.47.2" local="132127418886893333" remote="132127599600000000" Dst="2" />
+<file name="lst_usr.php" server="148.202.47.2" local="132163470849286031" remote="132163650600000000" Dst="2" />
+<file name="niv_acc_add.php" server="148.202.47.2" local="132127418890533118" remote="132127599600000000" Dst="2" />
+<file name="niv_acc_delete.php" server="148.202.47.2" local="132127418891193079" remote="132127599600000000" Dst="2" />
+<file name="niv_acc_edit.php" server="148.202.47.2" local="132127418891813039" remote="132127599600000000" Dst="2" />
+<file name="univ_add.php" server="148.202.47.2" local="132127418892812996" remote="132127599600000000" Dst="2" />
+<file name="univ_delete.php" server="148.202.47.2" local="132127418893632928" remote="132127599600000000" Dst="2" />
+<file name="univ_edit.php" server="148.202.47.2" local="132127418894932851" remote="132127599600000000" Dst="2" />
+<file name="usr_add.php" server="148.202.47.2" local="132183456014992830" remote="132183672000000000" Dst="1" />
+<file name="usr_delete.php" server="148.202.47.2" local="132127418897772860" remote="132127599600000000" Dst="2" />
+<file name="usr_edit.php" server="148.202.47.2" local="132183456845971859" remote="132183672600000000" Dst="1" />
+<file name="admin_archivos.php" server="148.202.47.2" local="132184383221922995" remote="132184599000000000" Dst="1" />
+<file name="lista_pagos.php" server="148.202.47.2" local="132151418672227245" remote="132152659200000000" Dst="2" />
+<file name="lista_ponencias.php" server="148.202.47.2" local="132151418098001647" remote="132152659200000000" Dst="2" />
+<file name="lista_presentaciones.php" server="148.202.47.2" local="132151417932571887" remote="132152659200000000" Dst="2" />
+</dwsync>

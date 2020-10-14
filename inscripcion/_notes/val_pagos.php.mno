@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsComprobantes" value="name:username;datatype:string,name:nip;datatype:string,name:nivel_de_acceso;datatype:string,name:ciclo_de_ingreso;datatype:string,name:email;datatype:string,name:ultimo_acceso;datatype:timestamp,name:ape_pat;datatype:string,name:ape_mat;datatype:string,name:nombres;datatype:string,name:sexo;datatype:string,name:fecha_nacimiento;datatype:date,name:id_universidad;datatype:int,name:univ_otra;datatype:string,name:id_grado_acad;datatype:int,name:grado_acad_otro;datatype:string,name:num_celular;datatype:string,name:comp_pago_stat;datatype:string,name:comp_pago_fecha;datatype:date,name:arch_pon_stat;datatype:string,name:arch_pon_fecha;datatype:date,name:pres_pon_stat;datatype:string,name:pres_pon_fecha;datatype:date,name:comentario1;datatype:string,name:comentario2;datatype:string" />
+</info>
